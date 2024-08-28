@@ -1,7 +1,7 @@
-GenPass
+## GenPass
 
 
-Description
+### Description
 GenPass is a Python application designed to securely generate, store, and manage passwords. The application features a user-friendly graphical interface built with Tkinter, allowing users to create passwords of varying lengths and strengths, save them along with usernames and site details to a text file, and retrieve stored credentials with ease. The application also integrates clipboard functionality for quick access to generated passwords.
 
 Packages and Their Usage
