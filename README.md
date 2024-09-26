@@ -25,7 +25,8 @@ Usage: The os module is used in GenPass to check for the existence of the passwo
 ### Installation 
  #### 1. Clone the repository
      git clone https://github.com/akshat0824/GenPass.git
-     cd password-manager
+     cd GenPass
+     
  #### 2. Install required packages
      pip install pyperclip cryptography
  #### 3. Run the application
