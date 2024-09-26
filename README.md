@@ -38,6 +38,6 @@ Contributions are welcome! Feel free to submit issues or pull requests. For ques
 
 
 ### Acknowledgements
-Tkinter Documentation
+Tkinter Documentation 
 Cryptography Documentation
 JSON Documentation
