@@ -17,11 +17,19 @@ Usage: ttk is used in GenPass to create the dropdown menu (ComboBox) that allows
 #### 3. pyperclip
 Description: pyperclip is a cross-platform Python module for clipboard operations.
 Usage: In GenPass, pyperclip is used to copy generated passwords to the clipboard. This allows users to easily paste the passwords into other applications or fields without manually copying them.
-pip install pyperclip
 
 #### 4. os
 Description: os is a module that provides a way to interact with the operating system, including file operations.
 Usage: The os module is used in GenPass to check for the existence of the password storage file (passwords.txt) and handle file operations for saving and retrieving passwords.
+
+### Installation 
+ #### 1. Clone the repository
+     git clone https://github.com/yourusername/password-manager.git
+     cd password-manager
+ #### 2. Install required packages
+     pip install pyperclip cryptography
+ #### 3. Run the application
+     python main.py
 
 
 ### Contributing
@@ -29,5 +37,6 @@ Contributions are welcome! Feel free to submit issues or pull requests. For ques
 
 
 ### Acknowledgements
-Tkinter for the GUI framework
-Pyperclip for clipboard functionality
+Tkinter Documentation
+Cryptography Documentation
+JSON Documentation
