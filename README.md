@@ -6,13 +6,12 @@ GenPass is a Python application designed to securely generate, store, and manage
 
 ### Packages and Their Usage
 #### 1. tkinter
-: tkinter is the standard Python interface to the Tk GUI toolkit. It is used to create the graphical user interface (GUI) for GenPass.
+Description: tkinter is the standard Python interface to the Tk GUI toolkit. It is used to create the graphical user interface (GUI) for GenPass.
 Usage: In GenPass, tkinter is utilized to build and manage the application’s window, labels, buttons, and other interactive elements. It handles user inputs for generating passwords, displaying results, and saving or fetching credentials.
 
 #### 2. ttk
-: ttk (Themed Tk) is a module within tkinter that provides access to advanced widgets and styles.
+Description: ttk (Themed Tk) is a module within tkinter that provides access to advanced widgets and styles.
 Usage: ttk is used in GenPass to create the dropdown menu (ComboBox) that allows users to select password strength options. It enhances the visual appearance of the GUI components.
-
 
 #### 3. pyperclip
 Description: pyperclip is a cross-platform Python module for clipboard operations.
